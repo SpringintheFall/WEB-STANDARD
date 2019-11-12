@@ -1,5 +1,3 @@
-# WEB-STANDARD
-
 ## THIS IS WEB STANDARD WITH W3C
 ### [GO SITE >>](http://kbom.dothome.co.kr/web/) 
 
