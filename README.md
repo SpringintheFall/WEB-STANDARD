@@ -1,5 +1,5 @@
 ## THIS IS WEB STANDARD WITH W3C
-### [GO SITE >>](http://sitetestuser2.dothome.co.kr/web-master/) 230419호스팅연장완료
+### [GO SITE >>](http://sitetestuser2.dothome.co.krWEB-STANDARD-master/) 230419호스팅연장완료
 W3C Validation Pass<br>
 웹 표준을 준수하여 브라우저별 크로스 브라우징과 Internet explore 버전별 호환이 가능하도록 제작하였습니다.<br>
 
